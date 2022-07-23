@@ -4,10 +4,10 @@ In microscopic cancer images, the morphology of epithelium (tissue that lines th
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/sxk1031/digital_pathology/blob/main/images/12947_00004_mask.png" width="250" height="250">
+    <img src="https://github.com/sxk1031/digital_pathology/blob/main/images/12947_00004_mask.png" width="250" height="250"/>
   </div>
   <div class="column">
-    <img src="https://github.com/sxk1031/digital_pathology/blob/main/images/12947_00004.jpg" width="250" height="250">
+    <img src="https://github.com/sxk1031/digital_pathology/blob/main/images/12947_00004.jpg" width="250" height="250"/>
   </div>
 </div>
 
