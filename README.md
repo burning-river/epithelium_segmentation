@@ -30,3 +30,8 @@ We will use the highly successful UNet model for segmentations. See the [paper](
 
 Below is an example of the performance of the unet on a validation image. The dice score is 0.78.
 <img src="https://github.com/sxk1031/digital_pathology/blob/main/images/final_result.png" width="700" height="350"/>          
+
+#### Areas of improvement
+
+* More patches: Due to computational limitations, 100 patches per patient/whole slide image were extracted. More patches will help performance.
+* Hard cases: UNet performance will benefit from images which are difficult to segment manually. For instance, a lower contrast between epithelium and stroma makes it harder to segment. Learning from difficult cases should help. Additionally, the UNet seems to oversegment. It would be interesting to see the performance if we include images where the dominant component is stroma.
