@@ -29,7 +29,7 @@ We will use the highly successful UNet model for segmentations. See the [paper](
 #### Results
 
 Below is an example of the performance of the unet on a validation image. The dice score is 0.78.
-<img src="https://github.com/sxk1031/digital_pathology/blob/main/images/final_result.png" width="700" height="350"/>          
+<img src="https://github.com/sxk1031/digital_pathology/blob/main/images/final_result.png" width="700" height="300"/>          
 
 #### Areas of improvement
 
